@@ -32,7 +32,7 @@ CreateMarker 789 149 56
 CreateMarker -335 512 120
 CreateMarker -416 208 -16
 CreateMarker -463 218 176
-CreateMarker -739 218 184
+CreateMarker 792 -208 -200
 CreateMarker -784 219 -16
 CreateMarker -217 263 -8
 CreateMarker -310 -702 -16
@@ -818,20 +818,16 @@ SetMarkerPath 99 4 98
 SetMarkerPath 99 5 4
 SetMarkerPath 99 6 5
 SetMarkerPath 99 7 102
-SetZone 100 13
-SetMarkerPath 100 0 114
-SetMarkerPath 100 1 189
-SetMarkerPath 100 2 188
-SetMarkerPath 100 3 227
-SetMarkerPath 100 4 190
-SetMarkerPath 100 5 197
-SetMarkerPath 100 6 113
-SetMarkerPath 100 7 101
+SetZone 100 7
+SetMarkerPath 100 0 159
+SetMarkerPath 100 1 167
+SetMarkerPath 100 2 90
+SetMarkerPath 100 3 120
 SetZone 101 15
 SetMarkerPath 101 0 113
 SetMarkerPath 101 1 112
 SetMarkerPath 101 2 187
-SetMarkerPath 101 3 100
+SetMarkerPath 101 3 114
 SetMarkerPathFlags 101 3 r
 SetRocketJumpPathFields 101 3 80.0 180.0 0
 SetZone 102 12
@@ -905,7 +901,6 @@ SetMarkerPathFlags 113 3 r
 SetRocketJumpPathFields 113 3 70.0 118.0 0
 SetZone 114 13
 SetMarkerPath 114 0 107
-SetMarkerPath 114 1 100
 SetMarkerPath 114 2 188
 SetMarkerPath 114 3 115
 SetMarkerPath 114 4 189
@@ -1286,9 +1281,7 @@ SetMarkerPath 188 0 189
 SetMarkerPath 188 1 99
 SetMarkerPath 188 2 115
 SetMarkerPath 188 3 114
-SetMarkerPath 188 4 100
 SetZone 189 13
-SetMarkerPath 189 0 100
 SetMarkerPath 189 1 99
 SetMarkerPath 189 2 188
 SetMarkerPath 189 3 114
