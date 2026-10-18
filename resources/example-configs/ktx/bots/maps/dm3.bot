@@ -1188,6 +1188,7 @@ SetMarkerPathFlags 167 7 r
 SetRocketJumpPathFields 167 7 75.0 236.0 0
 SetZone 168 8
 SetMarkerPath 168 0 170
+SetMarkerPath 168 1 172
 SetZone 169 8
 SetMarkerPath 169 0 170
 SetZone 170 8
